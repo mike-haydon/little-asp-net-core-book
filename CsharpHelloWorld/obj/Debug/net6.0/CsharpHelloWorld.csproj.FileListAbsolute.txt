@@ -1,0 +1,15 @@
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/bin/Debug/net6.0/CsharpHelloWorld
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/bin/Debug/net6.0/CsharpHelloWorld.deps.json
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/bin/Debug/net6.0/CsharpHelloWorld.runtimeconfig.json
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/bin/Debug/net6.0/CsharpHelloWorld.dll
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/bin/Debug/net6.0/CsharpHelloWorld.pdb
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.csproj.AssemblyReference.cache
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.AssemblyInfoInputs.cache
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.AssemblyInfo.cs
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.csproj.CoreCompileInputs.cache
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.dll
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/refint/CsharpHelloWorld.dll
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.pdb
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/CsharpHelloWorld.genruntimeconfig.cache
+/Users/mike/Development/dotnetcore/CsharpHelloWorld/obj/Debug/net6.0/ref/CsharpHelloWorld.dll
